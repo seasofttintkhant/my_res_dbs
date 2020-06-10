@@ -4,17 +4,17 @@
         {"id": 2, "name": "Chicken Curry", "image": "https://i.ibb.co/8cgjVX7/curry.png", "price": 1500},
         {"id": 3, "name": "Apple Juice", "image": "https://i.ibb.co/8cgjVX7/curry.png", "price": 1000},
         {"id": 4, "name": "Cake", "image": "https://i.ibb.co/8cgjVX7/curry.png", "price": 1200},
-        {"id": 5, "name": "Curry1", "image": "https://i.ibb.co/8cgjVX7/curry.png", "price": 1200},
-        {"id": 6, "name": "Curry2", "image": "https://i.ibb.co/8cgjVX7/curry.png", "price": 1200},
-        {"id": 7, "name": "Curry3", "image": "https://i.ibb.co/8cgjVX7/curry.png", "price": 1200},
-        {"id": 8, "name": "Curry4", "image": "https://i.ibb.co/8cgjVX7/curry.png", "price": 1200},
-        {"id": 9, "name": "Curry5", "image": "https://i.ibb.co/8cgjVX7/curry.png", "price": 1200},
-        {"id": 10, "name": "Curry6", "image": "https://i.ibb.co/8cgjVX7/curry.png", "price": 1200},
-        {"id": 11, "name": "Curry7", "image": "https://i.ibb.co/8cgjVX7/curry.png", "price": 1200},
-        {"id": 12, "name": "Curry8", "image": "https://i.ibb.co/8cgjVX7/curry.png", "price": 1200},
-        {"id": 13, "name": "Curry9", "image": "https://i.ibb.co/8cgjVX7/curry.png", "price": 1200},
-        {"id": 14, "name": "Curry10", "image": "https://i.ibb.co/8cgjVX7/curry.png", "price": 1200},
-        {"id": 15, "name": "Curry11", "image": "https://i.ibb.co/8cgjVX7/curry.png", "price": 1200}
+        {"id": 5, "name": "Curry1", "image": "https://i.ibb.co/8cgjVX7/curry.png", "price": 500},
+        {"id": 6, "name": "Curry2", "image": "https://i.ibb.co/8cgjVX7/curry.png", "price": 8000},
+        {"id": 7, "name": "Curry3", "image": "https://i.ibb.co/8cgjVX7/curry.png", "price": 2300},
+        {"id": 8, "name": "Curry4", "image": "https://i.ibb.co/8cgjVX7/curry.png", "price": 2500},
+        {"id": 9, "name": "Curry5", "image": "https://i.ibb.co/8cgjVX7/curry.png", "price": 1400},
+        {"id": 10, "name": "Curry6", "image": "https://i.ibb.co/8cgjVX7/curry.png", "price": 1000},
+        {"id": 11, "name": "Curry7", "image": "https://i.ibb.co/8cgjVX7/curry.png", "price": 2500},
+        {"id": 12, "name": "Curry8", "image": "https://i.ibb.co/8cgjVX7/curry.png", "price": 1500},
+        {"id": 13, "name": "Curry9", "image": "https://i.ibb.co/8cgjVX7/curry.png", "price": 2300},
+        {"id": 14, "name": "Curry10", "image": "https://i.ibb.co/8cgjVX7/curry.png", "price": 5000},
+        {"id": 15, "name": "Curry11", "image": "https://i.ibb.co/8cgjVX7/curry.png", "price": 6000}
     ],
     "menu": {"id": 3, "name": "Apple Juice", "image": "https://i.ibb.co/8cgjVX7/curry.png", "price": 1000}
 }
