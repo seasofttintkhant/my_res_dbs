@@ -1,9 +1,9 @@
 {
     "menus": [
-        {"id": 1, "name": "Rice", "image": "", "price": 500},
-        {"id": 2, "name": "Chicken Curry", "image": "", "price": 1500},
-        {"id": 3, "name": "Apple Juice", "image": "", "price": 1000},
-        {"id": 4, "name": "Cake", "image": "", "price": 1200}
+        {"id": 1, "name": "Rice", "image": "https://i.ibb.co/8cgjVX7/curry.png", "price": 500},
+        {"id": 2, "name": "Chicken Curry", "image": "https://i.ibb.co/8cgjVX7/curry.png", "price": 1500},
+        {"id": 3, "name": "Apple Juice", "image": "https://i.ibb.co/8cgjVX7/curry.png", "price": 1000},
+        {"id": 4, "name": "Cake", "image": "https://i.ibb.co/8cgjVX7/curry.png", "price": 1200}
     ],
-    "menu": {"id": 3, "name": "Apple Juice", "image": "", "price": 1000}
+    "menu": {"id": 3, "name": "Apple Juice", "image": "https://i.ibb.co/8cgjVX7/curry.png", "price": 1000}
 }
