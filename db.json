@@ -16,5 +16,9 @@
         {"id": 14, "name": "Curry10", "image": "https://i.ibb.co/8cgjVX7/curry.png", "price": 5000},
         {"id": 15, "name": "Curry11", "image": "https://i.ibb.co/8cgjVX7/curry.png", "price": 6000}
     ],
-    "menu": {"id": 3, "name": "Apple Juice", "image": "https://i.ibb.co/8cgjVX7/curry.png", "price": 1000}
+    "menu": {"id": 3, "name": "Apple Juice", "image": "https://i.ibb.co/8cgjVX7/curry.png", "price": 1000},
+    "login": {
+        "success": true,
+        "token": "abc123"
+    }
 }
